@@ -1,0 +1,5 @@
+*/__pycache__/*
+checkpoints/*
+pickles/*
+results_tts/*
+dataset/ts_data
