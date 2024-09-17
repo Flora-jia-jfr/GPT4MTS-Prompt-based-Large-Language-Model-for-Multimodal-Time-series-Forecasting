@@ -14,3 +14,17 @@ A demo bash script has been prepared. The `model_name` could be any one between:
 ```
 bash run_demo.sh
 ```
+
+```
+@article{
+   Jia_Wang_Zheng_Cao_Liu_2024, 
+   title={GPT4MTS: Prompt-based Large Language Model for Multimodal Time-series Forecasting}, 
+   volume={38}, 
+   url={https://ojs.aaai.org/index.php/AAAI/article/view/30383}, 
+   DOI={10.1609/aaai.v38i21.30383}, 
+   number={21}, 
+   journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+   author={Jia, Furong and Wang, Kevin and Zheng, Yixiang and Cao, Defu and Liu, Yan}, 
+   year={2024}, month={Mar.}, pages={23343-23351} 
+   }
+```
